@@ -8,4 +8,8 @@ My favorite food:
 #Pani Puri
 #Peanut butter and Honey
 
+Favorite colour:
+Blue
+Purple
+
 bye!
